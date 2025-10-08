@@ -1,0 +1,7 @@
+bokeh==3.4.1
+pandas==2.2.2
+numpy==1.26.4
+jupyter==1.0.0
+notebook==7.2.0
+matplotlib==3.9.2
+seaborn==0.13.2
