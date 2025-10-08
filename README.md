@@ -64,6 +64,5 @@ Institutions should promote this integrated approach, rather than valorizing aca
 - **Federica Sfeir**  
 - **Fathnelle Mehouelley**  
 - **Glorie Metsa Wowo**  
-
-Lecturer: *Dr. Madinier*  
+ 
 Date: October 2025  
